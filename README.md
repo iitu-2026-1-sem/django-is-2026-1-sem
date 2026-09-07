@@ -1,0 +1,1 @@
+# django-is-2026-1-sem
